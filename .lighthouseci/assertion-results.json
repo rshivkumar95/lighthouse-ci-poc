@@ -1,0 +1,114 @@
+[
+  {
+    "name": "minScore",
+    "expected": 1,
+    "actual": 0.46,
+    "values": [
+      0.46
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditProperty": "performance",
+    "auditId": "categories",
+    "level": "error",
+    "url": "https://web.demandbase.com/implicit/callback"
+  },
+  {
+    "name": "minScore",
+    "expected": 1,
+    "actual": 0.56,
+    "values": [
+      0.56
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditProperty": "accessibility",
+    "auditId": "categories",
+    "level": "error",
+    "url": "https://web.demandbase.com/implicit/callback"
+  },
+  {
+    "name": "minScore",
+    "expected": 1,
+    "actual": 0.58,
+    "values": [
+      0.58
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditProperty": "best-practices",
+    "auditId": "categories",
+    "level": "error",
+    "url": "https://web.demandbase.com/implicit/callback"
+  },
+  {
+    "name": "minScore",
+    "expected": 1,
+    "actual": 0.91,
+    "values": [
+      0.91
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditProperty": "seo",
+    "auditId": "categories",
+    "level": "error",
+    "url": "https://web.demandbase.com/implicit/callback"
+  },
+  {
+    "name": "minScore",
+    "expected": 1,
+    "actual": 0.27,
+    "values": [
+      0.27
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditProperty": "performance",
+    "auditId": "categories",
+    "level": "error",
+    "url": "https://web.demandbase.com/sales/company/726263/account"
+  },
+  {
+    "name": "minScore",
+    "expected": 1,
+    "actual": 0.54,
+    "values": [
+      0.54
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditProperty": "accessibility",
+    "auditId": "categories",
+    "level": "error",
+    "url": "https://web.demandbase.com/sales/company/726263/account"
+  },
+  {
+    "name": "minScore",
+    "expected": 1,
+    "actual": 0.75,
+    "values": [
+      0.75
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditProperty": "best-practices",
+    "auditId": "categories",
+    "level": "error",
+    "url": "https://web.demandbase.com/sales/company/726263/account"
+  },
+  {
+    "name": "minScore",
+    "expected": 1,
+    "actual": 0.91,
+    "values": [
+      0.91
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditProperty": "seo",
+    "auditId": "categories",
+    "level": "error",
+    "url": "https://web.demandbase.com/sales/company/726263/account"
+  }
+]

@@ -1,0 +1,28 @@
+[
+  {
+    "url": "https://web.demandbase.com/sales/abx/dashboard",
+    "isRepresentativeRun": true,
+    "htmlPath": "/Users/srathod/Documents/IV-Codebase/poc/lighthouse-ci/lhci_reports_headless_new/_sales_abx_dashboard-2023_11_22_09_26_17-report.html",
+    "jsonPath": "/Users/srathod/Documents/IV-Codebase/poc/lighthouse-ci/lhci_reports_headless_new/_sales_abx_dashboard-2023_11_22_09_26_17-report.json",
+    "summary": {
+      "performance": 0.46,
+      "accessibility": 0.56,
+      "best-practices": 0.58,
+      "seo": 0.91,
+      "pwa": 0.25
+    }
+  },
+  {
+    "url": "https://web.demandbase.com/sales/company/726263/account",
+    "isRepresentativeRun": true,
+    "htmlPath": "/Users/srathod/Documents/IV-Codebase/poc/lighthouse-ci/lhci_reports_headless_new/_sales_company_726263_account-2023_11_22_09_27_33-report.html",
+    "jsonPath": "/Users/srathod/Documents/IV-Codebase/poc/lighthouse-ci/lhci_reports_headless_new/_sales_company_726263_account-2023_11_22_09_27_33-report.json",
+    "summary": {
+      "performance": 0.27,
+      "accessibility": 0.54,
+      "best-practices": 0.75,
+      "seo": 0.91,
+      "pwa": 0.25
+    }
+  }
+]
