@@ -11,3 +11,9 @@ As part of this POC following things are happening
 3. Once done report are generate it will be put into reports folder
 
 
+
+To Run add creadentials in the `src/confidential/secret.json` file 
+
+- npm install
+- npm run audit
+
